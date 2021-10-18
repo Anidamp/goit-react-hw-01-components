@@ -1,0 +1,8 @@
+td {
+    padding: 15px;
+    font-weight: bold;
+  }
+  
+  td:nth-child(2n) {
+    color: rgb(89, 156, 82);
+  }

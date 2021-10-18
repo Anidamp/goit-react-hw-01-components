@@ -1,0 +1,10 @@
+.statistics {
+    padding: 0;
+    text-align: center;
+  }
+  
+  .statList {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+  }
